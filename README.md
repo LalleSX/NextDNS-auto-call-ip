@@ -1,6 +1,10 @@
 ### NextDNS-auto-call-ip
 Automatic sync your ip to  NextDNS
 
+You will need the requests project for that you need to type in the terminal:
+
+´pip install requests´
+
 ## The files need to be configured with the directories of the python file/script and the URL for the Next DNS ip calling
 
 The Link calling url can be found here:
